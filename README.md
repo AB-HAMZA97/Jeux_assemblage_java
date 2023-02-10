@@ -5,6 +5,6 @@ This application consists of a grid of n lines and m columns and which contains 
 - MVC.
 - Factory.
 
-## Capture of application.
+## Application.
 
 ![Texte alternatif](tetris-app.PNG "Titre de l'image").
